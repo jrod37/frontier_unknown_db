@@ -6,7 +6,9 @@
     </head>
     <body>
         <p>
-            <?php echo $output; ?>
+            <?php echo $output; 
+            //print_r($_GET);
+            ?>
         </p>
     </body>
 </html>
